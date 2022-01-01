@@ -21,8 +21,8 @@ ___
 
 ## Execute
 ```
-$ gcc filename.c
-$ ./a.out
+$ gcc filename.c -o file.out
+$ ./file.out
 ```
 
 ___
