@@ -1,6 +1,5 @@
 # User defined Data Structure operations in C
 
-___
 
 * Linked List
     * Insertion at the beginning
